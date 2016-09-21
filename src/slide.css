@@ -1,0 +1,19 @@
+@import './config.css';
+
+:root {
+  --footerHeight: 100px;
+}
+
+.root {
+  position: absolute;
+  top: 0;
+  transition: all .6s;
+}
+
+.footer {
+  background: #f4f4f4;
+}
+
+.title {
+  color: red;
+}
